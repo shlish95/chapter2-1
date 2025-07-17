@@ -27,42 +27,42 @@
 <details>
 <summary>유저 토큰 발급 API</summary>
 
-![시퀀스 다이어그램](images/UserTokenIssue.png)
+![시퀀스 다이어그램](/images/UserTokenIssue.png)
 
 </details>
 
 <details>
 <summary>유저 토큰 검증 API</summary>
 
-![시퀀스 다이어그램](images/UserTokenVerification.png)
+![시퀀스 다이어그램](/images/UserTokenVerification.png)
 
 </details>
 
 <details>
 <summary>잔액 충전 및 조회 API</summary>
 
-![시퀀스 다이어그램](images/BalanceChargeAndCheck.png)
+![시퀀스 다이어그램](/images/BalanceChargeAndCheck.png)
 
 </details>
 
 <details>
 <summary>예약 가능 날짜 및 좌석 조회 API</summary>
 
-![시퀀스 다이어그램](images/AvailableDatesAndSeats.png)
+![시퀀스 다이어그램](/images/AvailableDatesAndSeats.png)
 
 </details>
 
 <details>
 <summary>좌석 예약 요청 API</summary>
 
-![시퀀스 다이어그램](images/SeatReservation.png)
+![시퀀스 다이어그램](/images/SeatReservation.png)
 
 </details>
 
 <details>
 <summary>결제 API</summary>
 
-![시퀀스 다이어그램](images/Payment.png)
+![시퀀스 다이어그램](/images/Payment.png)
 
 </details>
 
@@ -70,4 +70,4 @@
 
 ## 4. ERD (Entity - Relationship Diagram)
 
-![ERD](ERD.png)
+![ERD](/images/ERD.png)
